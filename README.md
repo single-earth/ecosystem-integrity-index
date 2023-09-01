@@ -54,7 +54,7 @@ Arildo Dias - arildo.dias@single.earth - [LinkedIn](https://ee.linkedin.com/in/a
 
 Shaya van Houdt - shaya.houdt@single.earth - [LinkedIn](https://ee.linkedin.com/in/shaya-v-b29768111)
 
-Katrin Meschin - katrin.meschin@single.earth - [LinkedIn](https://ee.linkedin.com/in/katrin-meschin)
+Katrin Meschin - katrin.meschin@gmail.com - [LinkedIn](https://ee.linkedin.com/in/katrin-meschin)
 
 Project Link: [https://github.com/single-earth/ecosystem-integrity-index](https://github.com/single-earth/ecosystem-integrity-index)
 
